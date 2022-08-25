@@ -10,3 +10,11 @@ Companies can publish job offers and a summary of the position on our company lo
 The admin login page is now available, allowing admin to create accounts, accept student profiles, and approve company articles.
 We have a problem where companies and students manipulate the program by creating false profiles.
 We are generating a super admin login to look into this problem and has full ability to prevent the fake profiles in order to solve it.
+
+
+***********Languages Used****************
+
+front end -HTML and CSS
+Back end - Java Script
+Database - Firebase database
+
